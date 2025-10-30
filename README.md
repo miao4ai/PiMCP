@@ -7,15 +7,9 @@ It provides a unified, scalable, and fault-tolerant protocol layer that enables 
 ---
 
 ## 🚀 Overview
-**Ray Edge Cluster** is a lightweight distributed computing framework designed for **Edge AI** scenarios — running across **Raspberry Pi clusters**, **Jetson Orin Nano**, or any other ARM-based devices.  
-It leverages [Ray](https://www.ray.io) for unified task scheduling, actor management, and resource-aware distributed execution.
+**PiMCP** (Distributed Model Context Protocol System) enables LLMs and agents to access and coordinate distributed resources — such as tools, APIs, and context databases — across both **edge devices** and **cloud nodes**.
 
-Typical use cases:
-- Distributed image / sensor data preprocessing on Raspberry Pi nodes  
-- GPU-accelerated inference on Jetson Orin Nano  
-- Federated or collaborative model training at the edge  
-- Edge → Cloud pipeline synchronization (via Ray Serve)
-
+It acts as a **middleware layer** between AI models and the physical or virtual world, orchestrating communication, context synchronization, and task execution through the **MCP (Model Context Protocol)**.
 ---
 
 ### System Architecture
