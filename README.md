@@ -7,9 +7,10 @@ It provides a unified, scalable, and fault-tolerant protocol layer that enables 
 ---
 
 ## 🚀 Overview
-**PiMCP** (Distributed Model Context Protocol System) enables LLMs and agents to access and coordinate distributed resources — such as tools, APIs, and context databases — across both **edge devices** and **cloud nodes**.
+**PiMCP** (Distributed Model Context Protocol System) enables LLMs and agents to access and coordinate distributed resources — such as tools, APIs, and context databases — across both **edge devices** and **cloud nodes**
 
 It acts as a **middleware layer** between AI models and the physical or virtual world, orchestrating communication, context synchronization, and task execution through the **MCP (Model Context Protocol)**.
+
 ---
 
 ### System Architecture
